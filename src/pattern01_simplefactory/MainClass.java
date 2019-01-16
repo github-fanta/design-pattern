@@ -1,5 +1,8 @@
 package pattern01_simplefactory;
 
+/**
+ * 简单工厂模式演示
+ */
 public class MainClass {
 
     public static void main(String[] args) throws InstantiationException, IllegalAccessException, ClassNotFoundException {

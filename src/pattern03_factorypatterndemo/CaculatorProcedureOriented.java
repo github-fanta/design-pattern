@@ -1,4 +1,4 @@
-package pattern0301factorypatterndemo;
+package pattern03_factorypatterndemo;
 
 import java.util.Scanner;
 

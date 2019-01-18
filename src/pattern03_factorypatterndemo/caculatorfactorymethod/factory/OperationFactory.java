@@ -1,6 +1,6 @@
-package pattern0301factorypatterndemo.caculatorfactorymethod.factory;
+package pattern03_factorypatterndemo.caculatorfactorymethod.factory;
 
-import pattern0301factorypatterndemo.caculatorfactorymethod.production.Operation;
+import pattern03_factorypatterndemo.caculatorfactorymethod.production.Operation;
 
 /**
  * 工厂方法

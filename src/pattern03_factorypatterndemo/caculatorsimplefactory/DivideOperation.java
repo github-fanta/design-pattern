@@ -1,4 +1,4 @@
-package pattern0301factorypatterndemo.caculatorfactorymethod.production;
+package pattern03_factorypatterndemo.caculatorsimplefactory;
 
 public class DivideOperation extends Operation {
     @Override

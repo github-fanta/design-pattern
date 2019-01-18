@@ -1,4 +1,4 @@
-package pattern0301factorypatterndemo.caculatorfactorymethod.production;
+package pattern03_factorypatterndemo.caculatorfactorymethod.production;
 
 public class MultiOperation extends Operation {
     @Override

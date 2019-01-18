@@ -1,4 +1,4 @@
-package pattern0301factorypatterndemo.caculatorsimplefactory;
+package pattern03_factorypatterndemo.caculatorsimplefactory;
 
 public abstract class Operation {
     double num1;

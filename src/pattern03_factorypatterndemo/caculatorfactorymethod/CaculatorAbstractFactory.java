@@ -1,8 +1,7 @@
-package pattern0301factorypatterndemo.caculatorfactorymethod;
+package pattern03_factorypatterndemo.caculatorfactorymethod;
 
-import pattern0301factorypatterndemo.caculatorfactorymethod.factory.AddOperationFactory;
-import pattern0301factorypatterndemo.caculatorfactorymethod.factory.OperationFactory;
-import pattern0301factorypatterndemo.caculatorfactorymethod.production.Operation;
+import pattern03_factorypatterndemo.caculatorfactorymethod.factory.AddOperationFactory;
+import pattern03_factorypatterndemo.caculatorfactorymethod.production.Operation;
 
 import java.util.Scanner;
 

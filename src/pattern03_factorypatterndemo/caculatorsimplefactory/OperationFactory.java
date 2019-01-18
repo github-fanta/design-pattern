@@ -1,4 +1,4 @@
-package pattern0301factorypatterndemo.caculatorsimplefactory;
+package pattern03_factorypatterndemo.caculatorsimplefactory;
 
 /**
  *简单工厂的静态工厂
